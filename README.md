@@ -16,7 +16,7 @@ The project simulates a real-world retail analytics workflow by integrating SQL,
 
 • A data-driven system is required to create a Customer 360° view for better business decisions.
 
-Project Objectives
+## Project Objectives
 
 • Build a Customer 360° analytical view
 
