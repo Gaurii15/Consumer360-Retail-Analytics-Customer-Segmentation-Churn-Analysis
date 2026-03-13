@@ -4,7 +4,7 @@ Consumer360 is an end-to-end retail analytics project designed to analyze custom
 
 The project simulates a real-world retail analytics workflow by integrating SQL, Python, and Power BI, along with an automated ETL pipeline to deliver actionable business insights for decision-making.
 
-Business Problem
+## Business Problem
 
 Retail companies often struggle to answer key business questions such as:
 
