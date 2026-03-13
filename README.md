@@ -72,15 +72,7 @@ CSV / Flat Files	Raw data simulation
 
 ## Data Pipeline Architecture
 
-Raw Retail Dataset
-↓
-SQL Data Cleaning & Aggregation
-↓
-Python RFM & Customer Analytics
-↓
-Automated CSV Data Output
-↓
-Power BI Dashboard Visualization
+Raw Retail Dataset → SQL Data Cleaning & Aggregation → Python RFM & Customer Analytics → Automated CSV Data Output → Power BI Dashboard Visualization
 
 This pipeline simulates a real-world analytics workflow used in retail companies.
 
